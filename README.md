@@ -2,7 +2,7 @@ My Professional Portfolio
 This repository hosts the source code for my personal portfolio website, which showcases my skills, projects, and professional experience.
 
 🔗 Live Demo
-You can view the live version of my portfolio here: https://Dharani8713.github.io
+You can view the live version of my portfolio here: https://dharani8713.github.io
 
 💻 Technologies Used
 This portfolio was built using the following technologies:

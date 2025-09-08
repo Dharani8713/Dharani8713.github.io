@@ -2,7 +2,7 @@ My Professional Portfolio
 This repository hosts the source code for my personal portfolio website, which showcases my skills, projects, and professional experience.
 
 🔗 Live Demo
-You can view the live version of my portfolio here: [Your Portfolio URL Here]
+You can view the live version of my portfolio here: https://Dharani8713.github.io
 
 💻 Technologies Used
 This portfolio was built using the following technologies:
@@ -13,7 +13,6 @@ CSS3: For styling and layout.
 
 JavaScript: For interactive features and dynamic content.
 
-[Add any other technologies, frameworks, or libraries you used, e.g., React, Tailwind CSS, etc.]
 
 ✨ Features
 Responsive Design: The website is fully responsive and looks great on all devices, from desktops to mobile phones.
@@ -24,4 +23,4 @@ About Me: A section providing an overview of my professional background and skil
 
 Contact Form: An easy way for visitors to get in touch with me.
 
-[Add any other unique features of your portfolio, e.g., animations, dark mode, etc.]
+
